@@ -10,7 +10,7 @@ $html='<table border="1" style="background-color:yellow;">
     <td>Book ID</td>
     <td>Book Title</td>
     <td>ISBN Number</td>
-    <td>Category</td>
+    <td>category</td>
     <td>Price</td>
     <td>Author</td>
        
